@@ -1,0 +1,62 @@
+body {
+  font-family: "Asul";
+}
+/* section { 
+  background: #ff1b68;
+} */
+
+#product-overview h1 {
+  color: whitesmoke;
+  font-family: "Space Mono", sans-serif;
+
+}
+
+#product-overview {
+  background: #ff1b68;
+}
+
+/* #plans {
+  background: white;
+} */
+
+.section-title {
+  color: green;
+  /* font-family: inherit; */
+}
+
+.space-mono-regular {
+  font-family: "Space Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.space-mono-bold {
+  font-family: "Space Mono", monospace;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.space-mono-regular-italic {
+  font-family: "Space Mono", monospace;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.space-mono-bold-italic {
+  font-family: "Space Mono", monospace;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.asul-regular {
+  font-family: "Asul", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.asul-bold {
+  font-family: "Asul", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
