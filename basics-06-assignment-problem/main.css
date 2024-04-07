@@ -1,0 +1,59 @@
+#assignment-instructions {
+  color: goldenrod;
+  font-family: sans-serif;
+}
+
+/* [id] {
+  color: green;
+} */
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+li {
+  font-family: inherit;
+}
+
+code {
+  font-family: "Space Mono";
+  color: red;
+}
+
+.code-format code {
+  color: green;
+}
+
+li + li {
+  background: black;
+  color: white;
+}
+
+ol > li {
+  background: black;
+  color: white;
+}
+
+.space-mono-regular {
+  font-family: "Space Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.space-mono-bold {
+  font-family: "Space Mono", monospace;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.space-mono-regular-italic {
+  font-family: "Space Mono", monospace;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.space-mono-bold-italic {
+  font-family: "Space Mono", monospace;
+  font-weight: 700;
+  font-style: italic;
+}
