@@ -16,6 +16,12 @@
     font-family: 'Anton', sans-serif;
 }
 
+.plan__list {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
 .plan {
     background-color: #d5ffdc;
     text-align: center;
@@ -109,12 +115,3 @@
     color: white;
     font-size: 20px;
 }
-
-
-
-
-
-
-/* h1 {
-    font-family: sans-serif;
-} */
